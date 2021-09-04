@@ -1,6 +1,12 @@
 # cppChessEngine
 A slightly more complicated chess engine from the old.
 
+This engine makes use of memory and iterative deepening to improve performance, and allow time to move functionality.
+
+Engine calculation now takes place on a seperate thread so the process doesn't freeze whenever its calculating.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 Basic Chess AI, if you want to use this AI to get worse at chess you are free to do so.
 
 You can see and anaylize some of the engines games here: https://www.chess.com/member/quarelai (Anything before July 2021 is from the old engine)

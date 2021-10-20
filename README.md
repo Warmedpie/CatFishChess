@@ -1,5 +1,5 @@
 # cppChessEngine
-A slightly more complicated chess engine from the old.
+A slightly more complicated chess engine.
 
 This engine makes use of memory and iterative deepening to improve performance, and allow time to move functionality.
 

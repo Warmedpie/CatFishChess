@@ -1,16 +1,14 @@
 # cppChessEngine
-A slightly more complicated chess engine.
+A pretty minimal chess program.
 
-This engine makes use of memory and iterative deepening to improve performance, and allow time to move functionality.
+Evaluates on Material and piece square tables
+Uses minimax with Alpha-Beta and a transposition table
+----------------------------------------------------------------------------------------------------
 
-Engine calculation now takes place on a seperate thread so the process doesn't freeze whenever its calculating.
+Basic Chess engine, if you want to use this engine to get worse at chess you are free to do so.
 
---------------------------------------------------------------------------------------------------------------------------------
-
-Basic Chess AI, if you want to use this AI to get worse at chess you are free to do so.
-
-You can see and anaylize some of the engines games here: https://www.chess.com/member/quarelai (Anything before July 2021 is from the old engine)
-
+You can see and anaylize some of the engines games here: https://www.chess.com/member/quarelai 
+----------------------------------------------------------------------------------------------------
 This engine has features allowing you to add/ modify your own opening books, and use custom search depth.
 
 To add book moves:

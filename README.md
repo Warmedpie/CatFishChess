@@ -1,5 +1,5 @@
-# cppChessEngine
-A pretty minimal chess program.
+# CatFishChess
+A pretty minimal chess program named after my favorite chess engine, stockfish.
 
 Evaluates on Material and piece square tables
 Uses minimax with Alpha-Beta and a transposition table

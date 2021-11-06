@@ -1,76 +1,72 @@
-d2d4
-d7d5
-c1f4
-g8f6
-g1f3
-c7c5
-e2e3
-b8c6
-f1b5 Score: 1.05 at depth: 8
-c5d4 (capture) Score: 0.8 at depth: 8
-e3d4 (capture) Score: 0.85 at depth: 8
-a7a6 Score: 1.15 at depth: 8
-b5c6 (capture) Score: 1.2 at depth: 8
-b7c6 (capture) Score: 0.65 at depth: 9
-d1d3 Score: 1.2 at depth: 8
-d8b6 Score: 1.1 at depth: 8
-f4c1 Score: 0.9 at depth: 7
-e7e6 Score: -2.55 at depth: 7
-e1h1 O-O Score: 0.9 at depth: 7
-b6b5 Score: 1.1 at depth: 7
-d3e3 Score: 1.1 at depth: 7
-b5a4 Score: 1.35 at depth: 7
-b1c3 Score: 1.7 at depth: 8
-a4c2 (capture) Score: 0.9 at depth: 8
-e3e5 Score: 1.35 at depth: 7
-e8d8 Score: 1.8 at depth: 7
-c1g5 Score: 2 at depth: 7
-d8d7 Score: 2 at depth: 7
-g5f6 (capture) Score: 2 at depth: 7
-f8d6 Score: 2.05 at depth: 7
-f6g7 (capture) Score: 1.6 at depth: 8
-d6e5 (capture) Score: 2.65 at depth: 8
-f3e5 (capture) Score: 2.55 at depth: 8
-d7e8 Score: 2.75 at depth: 9
-g7h8 (capture) Score: 2.75 at depth: 8
-c2b2 (capture) Score: 2.6 at depth: 8
-a1d1 Score: 2.75 at depth: 8
-b2c3 (capture) Score: -0.7 at depth: 9
-h8f6 Score: -0.5 at depth: 8
-c3b4 Score: -0.5 at depth: 8
-e5c6 (capture) Score: -0.35 at depth: 8
-b4a3 Score: -0.3 at depth: 8
-c6e7 Score: 0.6 at depth: 8
-a3a2 (capture) Score: -0.1 at depth: 8
-d1d3 Score: 0.05 at depth: 8
-a2c2 Score: -0.3 at depth: 8
-d3a3 Score: 0.15 at depth: 7
-e6e5 Score: 0.95 at depth: 7
-a3e3 Score: 0.15 at depth: 7
-c8b7 Score: 0.15 at depth: 7
-e3e5 (capture) Score: 0.7 at depth: 8
-e8d7 Score: 0.7 at depth: 8
-e5e1 Score: 0.75 at depth: 8
-a8f8 Score: 0.75 at depth: 8
-h2h3 Score: 0.8 at depth: 8
-d7d6 Score: 0.8 at depth: 8
-f6e5 Score: 0.9 at depth: 8
-d6d7 Score: 0.9 at depth: 8
-e1c1 Score: 0.9 at depth: 8
-c2b3 Score: 0.9 at depth: 7
-c1b1 Score: 3.15 at depth: 8
-b3b5 Score: 3.75 at depth: 7
-e5g7 Score: 4.4 at depth: 8
-f8a8 Score: 3.85 at depth: 9
-b1b5 (capture) Score: 4.3 at depth: 8
-a6b5 (capture) Score: 4.4 at depth: 9
-e7f5 Score: 4.4 at depth: 8
-d7e6 Score: 4.4 at depth: 8
-f5e3 Score: 4.5 at depth: 8
-e6d7 Score: 4.4 at depth: 8
-f1b1 Score: 4.6 at depth: 8
-b7c6 Score: 4.55 at depth: 8
-b1c1 Score: 4.55 at depth: 8
+d2d4 Score: -0.05 at depth: 8
+e7e6 Score: 0.05 at depth: 8
+c1f4 Score: 0.2 at depth: 8
+c7c5 Score: -0.05 at depth: 8
+d4c5 (capture) Score: -0.05 at depth: 8
+f8c5 (capture) Score: 1.1588e-14 at depth: 8
+d1e2 Score: 0.1 at depth: 8
+c5d4 Score: 0.1 at depth: 7
+c2c3 Score: 4.16334e-17 at depth: 7
+d4c5 Score: 0.1 at depth: 7
+b1h1 Score: 0.1 at depth: 7
+h7h6 Score: 0.25 at depth: 7
+h1b1 Score: 1.68754e-14 at depth: 7
+d7d5 Score: -0.15 at depth: 7
+b1d1 Score: -0.1 at depth: 7
+g8f6 Score: -0.15 at depth: 7
+e2d3 Score: -0.25 at depth: 7
+e8d8 Score: -0.275 at depth: 7
+d3c2 Score: -0.275 at depth: 7
+g7g5 Score: -0.25 at depth: 7
+f4g3 Score: -0.15 at depth: 7
+f6e4 Score: -0.15 at depth: 7
+g3h2 Score: -0.1 at depth: 7
+d8e8 Score: -0.1 at depth: 7
+h2c7 Score: -0.1 at depth: 7
+e4f2 Score: -0.1 at depth: 7
+d1f1 Score: -0.1 at depth: 7
+f2e4 Score: -0.1 at depth: 7
+f1e1 Score: -0.1 at depth: 7
+e4f2 Score: -0.05 at depth: 7
+c2b1 Score: -0.05 at depth: 7
+f2g4 Score: 0.1 at depth: 7
+c7g3 Score: 0.2 at depth: 7
+e8f8 Score: -0.1 at depth: 8
+g3e5 Score: -0.1 at depth: 7
+f8g8 Score: 0.1 at depth: 7
+e5d4 Score: -0.05 at depth: 8
+c5d6 Score: -0.05 at depth: 8
+e1g1 Score: -0.05 at depth: 7
+g4h2 Score: -0.05 at depth: 8
+g1d1 Score: 2.00256e-14 at depth: 7
+e6e5 Score: 2.00256e-14 at depth: 7
+d4a7 Score: 0.5 at depth: 8
+d5d4 Score: 0.65 at depth: 9
+c3d4 (capture) Score: 0.65 at depth: 8
+h2f3 Score: 1 at depth: 8
+d4e5 (capture) Score: 1.05 at depth: 8
+d6c7 Score: 1.25 at depth: 8
+d1d7 Score: 1.25 at depth: 7
+c7e5 (capture) Score: 1.35 at depth: 8
+a7e3 Score: 1.35 at depth: 7
+g5g4 Score: 1.35 at depth: 7
+e3h6 (capture) Score: 1.7 at depth: 7
+b7b6 Score: 1.7 at depth: 7
+h6g5 Score: 1.95 at depth: 7
+e5g7 Score: 2.1 at depth: 7
+d7d8 Score: 2.1 at depth: 7
+g8h7 Score: 2.1 at depth: 8
+g5e3 Score: 2.1 at depth: 7
+b6b5 Score: 2.1 at depth: 7
+d8d7 Score: 2.1 at depth: 7
+h7g8 Score: 2.1 at depth: 7
+d7d8 Score: 2.1 at depth: 7
+g8h7 Score: 2.1 at depth: 8
+d8d7 Score: 2.1 at depth: 7
+h7g8 Score: 2.1 at depth: 8
+d7d8 Score: 2.1 at depth: 7
+g8h7 Score: 2.1 at depth: 8
+epth: 8
 c6b7 Score: 4.6 at depth: 8
 g7e5 Score: 4.65 at depth: 8
 d7e6 Score: 4.6 at depth: 8

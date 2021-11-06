@@ -7,7 +7,7 @@ Uses minimax with Alpha-Beta and a transposition table
 
 Basic Chess engine, if you want to use this engine to get worse at chess you are free to do so.
 
-You can see and anaylize some of the engines games here: https://www.chess.com/member/quarelai 
+You can see and analyze some of the engines games here: https://www.chess.com/member/CatFish_Chess
 ----------------------------------------------------------------------------------------------------
 This engine has features allowing you to add/ modify your own opening books, and use custom search depth.
 

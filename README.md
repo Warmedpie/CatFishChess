@@ -1,5 +1,6 @@
 # CatFishChess
 A pretty minimal chess program named after my favorite chess engine, stockfish.
+I am aware that the line can be a little bugged, will look into it, the PV move (first move in the position) shouldn't ever bug out.
 
 Evaluates on Material and piece square tables
 Uses minimax with Alpha-Beta and a transposition table

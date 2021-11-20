@@ -1,14 +1,14 @@
-e1c1 O-O-O
-d1g1
-g7h6
-e6f5
-h6h7
-f5f6
-h7h8
-f6f7
-h8h7
-g1h1
-0 at depth: 0
+b1c3
+e7e6
+e2e4
+d8h4
+g1f3
+h4f4
+f3d4
+f8c5
+d4e2
+f4f2 (capture)
+ depth: 0
 b8c6 Score: 0 at depth: 0
 f1c4 Score: 0 at depth: 0
 f8c5 Score: 0 at depth: 0

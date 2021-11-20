@@ -1,25 +1,51 @@
-b1c3
-e7e6
 e2e4
-d8h4
-g1f3
-h4f4
-f3d4
+d7d5
+e4d5 (capture)
+b8c6
+d5c6 (capture)
+c8d7
+c6d7 (capture)
+d8d7 (capture)
+b1c3
+c7c5
+f1b5
+d7b5 (capture)
+c3b5 (capture)
+g8f6
+b5c7
+e8d8
+c7a8 (capture)
+d8c8
+d2d4
+c5d4 (capture)
+d1d4 (capture)
+e7e5
+d4e5 (capture)
 f8c5
-d4e2
-f4f2 (capture)
- depth: 0
-b8c6 Score: 0 at depth: 0
-f1c4 Score: 0 at depth: 0
-f8c5 Score: 0 at depth: 0
-e1h1 O-O Score: 0 at depth: 0
-g8f6 Score: -9.21393e+06 at depth: 7
-f3g5 Score: -9.21393e+06 at depth: 8
-d7d5 Score: -9.21393e+06 at depth: 8
-e4d5 (capture) Score: -9.21393e+06 at depth: 8
-c6a5 Score: -9.21393e+06 at depth: 7
-c4b5 Score: -9.21393e+06 at depth: 8
-c7c6 Score: -9.21393e+06 at depth: 9
+e5c5 (capture)
+c8b8
+c1f4
+b8a8 (capture)
+e1c1 O-O-O
+h8e8
+g1f3
+f6e4
+c5e7
+e8c8
+e7e4 (capture)
+a7a6
+f4e3
+a8b8
+e4h7 (capture)
+b8a8
+h7g7 (capture)
+f7f6
+g7f6 (capture)
+c8g8
+d1d8
+g8d8 (capture)
+f6d8 (capture)
+
 d5c6 (capture) Score: -9.21393e+06 at depth: 8
 b7c6 (capture) Score: -9.21393e+06 at depth: 7
 b5d3 Score: -9.21393e+06 at depth: 8

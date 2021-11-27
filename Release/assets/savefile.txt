@@ -1,97 +1,91 @@
-d3e4
-g2h2
-e4e2
-h2g3
-e2f2
-g3g4
-f2g2
-g4f4
-c3d5
-e: -92139.3 at depth: 13
-c7c5
-d4c5 (capture) Score: -92139.3 at depth: 12
-d5d4
-c3b5 Score: -92139.3 at depth: 14
-d8a5
-c1d2 Score: -92139.3 at depth: 13
-a5d8
-d2f4 Score: -92139.3 at depth: 12
-e7e5
-f4e5 (capture) Score: -92139.3 at depth: 11
-d8a5
+g1f3 Score: 0 at depth: 0
+g8f6
+d2d4 Score: 0 at depth: 0
+e7e6
 c2c3 Score: -92139.3 at depth: 12
+b7b6
+c1g5 Score: -92139.3 at depth: 11
+c8b7
+b1d2 Score: -92139.3 at depth: 12
+f8e7
+e2e4 Score: -92139.3 at depth: 10
+f6e4 (capture)
+d2e4 (capture) Score: -92139.3 at depth: 13
+b7e4 (capture)
+g5e7 (capture) Score: -92139.3 at depth: 12
+e8e7 (capture)
+f1d3 Score: -92139.3 at depth: 11
+h7h6
+d3e4 (capture) Score: -92139.3 at depth: 12
+d7d5
+e4d3 Score: -92139.3 at depth: 12
 b8c6
-b5c7 Score: -92139.3 at depth: 13
-e8d8
-e5d4 (capture) Score: -92139.3 at depth: 13
-c6d4 (capture)
-c7a8 (capture) Score: -92139.3 at depth: 12
-d8e8
-b2b4 Score: -92139.3 at depth: 12
-d4c2
-d3c2 (capture) Score: -92139.3 at depth: 15
-a5a3
-g1f3 Score: -92139.3 at depth: 14
-e8f7
-a8c7 Score: -92139.3 at depth: 13
-g7g5
-a1c1 Score: -92139.3 at depth: 10
-f7g7
-e1d1 Score: -92139.3 at depth: 10
-c8d7
-f3g5 (capture) Score: -92139.3 at depth: 10
-d7a4
-g5e6 Score: -92139.3 at depth: 10
-g7h6
-e6f8 (capture) Score: -92139.3 at depth: 11
-a4c2 (capture)
-c1c2 (capture) Score: -92139.3 at depth: 9
-g8e7
-f8e6 Score: -92139.3 at depth: 14
-h8b8
-c7b5 Score: -92139.3 at depth: 14
-a3a4
-e6d4 Score: -92139.3 at depth: 15
+d1a4 Score: -92139.3 at depth: 12
+d8d6
+e1h1 O-O Score: -92139.3 at depth: 10
+a8g8
+a1c1 Score: -92139.3 at depth: 9
+b6b5
+d3b5 (capture) Score: -92139.3 at depth: 12
+d6d8
+b5c6 (capture) Score: -92139.3 at depth: 8
+d8b8
+c1c2 Score: -92139.3 at depth: 8
+e7f6
+f3e5 Score: -92139.3 at depth: 8
+g8d8
+c2d2 Score: -92139.3 at depth: 8
 h6h5
-e2e3 Score: -92139.3 at depth: 12
-b8a8
-b5c7 Score: -92139.3 at depth: 10
-a8d8
-c7e6 Score: -92139.3 at depth: 14
-d8d5
-c5c6 Score: -92139.3 at depth: 11
-a4c6 (capture)
-e6f4 Score: -92139.3 at depth: 13
-h5g5
-d1c1 Score: -92139.3 at depth: 15
-c6d6
-f4d5 (capture) Score: -92139.3 at depth: 16
-e7d5 (capture)
-c1b1 Score: -92139.3 at depth: 13
-d5e3 (capture)
-f2e3 (capture) Score: -92139.3 at depth: 13
-d6e7
-f1b5 Score: -92139.3 at depth: 12
-g5f6
-h1f1 Score: -92139.3 at depth: 13
-f5f4
-f1f4 (capture) Score: -92139.3 at depth: 14
-f6g5
-f4h4 Score: -92139.3 at depth: 11
-e7e3 (capture)
-h4h7 (capture) Score: -92139.3 at depth: 9
-e3e4
-h7c7 Score: -92139.3 at depth: 8
-e4e1
-b1b2 Score: -92139.3 at depth: 9
-e1e4
-c2e2 Score: -92139.3 at depth: 8
-e4d5
-e2e5 Score: -92139.3 at depth: 8
-d5e5 (capture)
-d4f3 Score: -92139.3 at depth: 9
-g5f5
-f3e5 (capture) Score: -92139.3 at depth: 9
+f1c1 Score: -92139.3 at depth: 8
+g7g6
+e5d7 Score: -92139.3 at depth: 8
+d8d7 (capture)
+c6d7 (capture) Score: -92139.3 at depth: 8
+c7c5
+d4c5 (capture) Score: -92139.3 at depth: 8
+b8c7
+a4d4 Score: -92139.3 at depth: 8
+f6e7
+d4h8 (capture) Score: -92139.3 at depth: 7
+e7d7 (capture)
+h8f8 Score: -92139.3 at depth: 8
+c7f4
+f8d6 Score: -92139.3 at depth: 7
+f4d6 (capture)
+c5d6 (capture) Score: -92139.3 at depth: 9
+h5h4
+g1f1 Score: -92139.3 at depth: 9
+g6g5
+c1c2 Score: -92139.3 at depth: 9
+g5g4
+f1e2 Score: -92139.3 at depth: 9
+h4h3
+g2h3 (capture) Score: -92139.3 at depth: 10
+g4h3 (capture)
+e2e3 Score: -92139.3 at depth: 9
+d7d6 (capture)
+f2f4 Score: -92139.3 at depth: 9
+d6c6
+d2d1 Score: -92139.3 at depth: 9
+f7f6
+e3d4 Score: -92139.3 at depth: 9
+e6e5
+f4e5 (capture) Score: -92139.3 at depth: 11
+f6e5 (capture)
+d4e5 (capture) Score: -92139.3 at depth: 11
+d5d4
+c3d4 (capture) Score: -92139.3 at depth: 9
+c6b7
+e5d6 Score: -92139.3 at depth: 9
+b7b6
+d1f1 Score: -92139.3 at depth: 9
+b6a6
+d6c6 Score: 1001 at depth: 7
+a6a5
+c2c4 Score: 1001 at depth: 5
+a5a6
+c4a4 Score: 1000 at depth: 2
+ore: -92139.3 at depth: 9
 f5e6
 b2c2 Score: -92139.3 at depth: 8
 e6e5 (capture)

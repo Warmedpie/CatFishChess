@@ -1,9 +1,6 @@
 # CatFishChess
 A pretty minimal chess program named after my favorite chess engine, stockfish.
 
-Evaluates on Material and piece square tables
-Uses minimax with Alpha-Beta and a transposition table
-----------------------------------------------------------------------------------------------------
 
 Basic Chess engine, if you want to use this engine to get worse at chess you are free to do so.
 You can see and analyze some of the engines games here: https://www.chess.com/member/CatFish_Chess

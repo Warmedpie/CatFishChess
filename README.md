@@ -36,5 +36,3 @@ To add book moves:
 4) hitting "Save Book" will save the moves to the "openingbook.txt" file.
 5) You can clear the book by opening the file and deleteing the text inside.
 6) The moves are stored in the format %previous fen%_%fen after move%
-
-The library https://github.com/nkarve/surge#readme is used for move generation.

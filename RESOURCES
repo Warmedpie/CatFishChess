@@ -1,0 +1,5 @@
+The following github links are resources that I used in my program that I have not coded myself
+
+
+https://github.com/nkarve/surge#readme
+  The rules of chess are coded into this library and is used to handle positions, moves, hashing, and more.

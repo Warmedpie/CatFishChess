@@ -36,3 +36,9 @@ To add book moves:
 4) hitting "Save Book" will save the moves to the "openingbook.txt" file.
 5) You can clear the book by opening the file and deleteing the text inside.
 6) The moves are stored in the format %previous fen%_%fen after move%
+
+Clocks: Read below.
+----------------------------------------------------------------------------------------------------
+Use the arrows to set the time control (only certain ones are added) and then start the clocks by clicking "start clocks"
+Time updates after the first move is played once the clocks are started
+Times will not update, or be used to call a win/ loss on a position unless "start clocks" has been pushed

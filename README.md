@@ -7,17 +7,11 @@ You can see and analyze some of the engines games here: https://www.chess.com/me
 https://www.chess.com/member/catfishofficial (Active)
 ----------------------------------------------------------------------------------------------------
 
-Score: How the engine rates the position in pawns 
-
-    - (+1 is 1 pawn better for white, -1 is 1 pawn better for black)
+Score: The position is either scored in pawns or mate count
     
-    - (+/-)Mx, x being the amount of turns to play a checkmate (turns being 1 move for white, and 1 for black)
+Calculate move: The engine will think about a move and will use the depth/ time settings
     
-Calculate move: Find the engine move with the given time (in seconds) or to the given depth (in ply)
-
-    - A ply is a single move, (1 turn for white or black)
-    
-Auto White/ Black: Will make the engine automatically calculate on that sides turn, and move after the move is found (at time, depth, or manually making a move)
+Engine White/ Black: Will make the engine automatically plays
 
 Analysis Board: Will calculate for infinite time, stopping at the provided depth, or when a move is made (but it will start calculating the next move afterwards).
 

@@ -3,8 +3,9 @@ A pretty minimal chess program named after my favorite chess engine, stockfish.
 
 
 Basic Chess engine, if you want to use this engine to get worse at chess you are free to do so.
-You can see and analyze some of the engines games here: https://www.chess.com/member/CatFish_Chess
-https://www.chess.com/member/catfishofficial (Active)
+You can see and analyze some of the engines games here:
+https://www.chess.com/member/catfishofficial (Banned)
+https://www.chess.com/member/catfish-e (Active)
 ----------------------------------------------------------------------------------------------------
 
 Score: The position is either scored in pawns or mate count
